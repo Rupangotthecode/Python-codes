@@ -5,4 +5,5 @@ for i in range(2, 10000):
             sum=sum+j
     if(i==sum):
         print(i)
+#perfectnumbers
 
